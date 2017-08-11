@@ -31,10 +31,11 @@
 * TruffleHog (Searches through git repositories for high entropy strings, digging deep into commit history)
 
 ## Plugins BurpSuite
-* VulnersCom: https://github.com/vulnersCom/burp-vulners-scanner"
-* BackSlash-powered-scanner: https://github.com/PortSwigger/backslash-powered-scanner"
-* Header Checks: https://github.com/eonlight/BurpExtenderHeaderChecks"
-* pyschPATH: https://github.com/ewilded/psychopath"
+* VulnersCom: https://github.com/vulnersCom/burp-vulners-scanner
+* BackSlash-powered-scanner: https://github.com/PortSwigger/backslash-powered-scanner
+* Header Checks: https://github.com/eonlight/BurpExtenderHeaderChecks
+* pyschPATH: https://github.com/ewilded/psychopath
+* HUNT Burp Suite Extension: https://github.com/bugcrowd/HUNT
 
 ## Credits
 * GitHub Jhaddix https://github.com/jhaddix/tbhm
