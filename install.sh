@@ -69,7 +69,7 @@ printf "[+] SSRF CommonsParamaters\n"
 printf "[!] Common Parameters or Injection\n\n"
 printf "file=\nlocation=\nlocale=\npath=\ndisplay=\nload=\nread=\nretrieve=\nfolder=\nstyle=\ntemplate=\ndoc=\nsource=\npdf=\ndest=\ncontiue=\nurl=\n" > web/ssrf_parameters.txt
 
-printf "[+] Cloning Commix"
+printf "[+] Cloning Commix\n"
 printf "[!] Automated All-in-One OS command injection and exploitation tool\n\n"
 git clone https://github.com/commixproject/commix web/commix 2>/dev/null 2>/dev/null
 
